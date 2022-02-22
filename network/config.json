@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "Obesity-related diseases and psychiatric disorders knowledge network\n22 agosto 2021\nViviane Schuch",
-    "title": "Viral and Viral Vaccines Knowledge Network"
+    "more": "We select an initial list of obesity-related diseases and psychiatric disorders, and retrieve all potential relationships (edges) between genes and diseases (nodes) related to them in biomedical literature using Watson for Drug Discovery.\nWe selected only associations supported by two or more documents. Data were downloaded in october, 2018.\nNode size represents degree.\nNode color:\nblue: psychiatric disorders exclusive genes\norange: psychiatric disorders\nlight green: shared genes\ndark green: Obesity-related diseases\npink: obesity-related diseases exclusive genes",
+    "intro": "We select an initial list of obesity-related diseases and psychiatric disorders, and retrieve all potential relationships (edges) between genes and diseases (nodes) related to them in biomedical literature using Watson for Drug Discovery.\nWe selected only associations supported by two or more documents. Data were downloaded in october, 2018.\nNode size represents degree.\nNode color:\nblue: psychiatric disorders exclusive genes\norange: psychiatric disorders\nlight green: shared genes\ndark green: Obesity-related diseases\npink: obesity-related diseases exclusive genes\n",
+    "title": "Obesity-related diseases and psychiatric disorders knowledge network."
   },
   "legend": {
-    "edgeLabel": "relationships supported for 2 or more docs",
-    "colorLabel": "class",
+    "edgeLabel": "Document Association",
+    "colorLabel": "blue: psychiatric disorders exclusive genes, orange: psychiatric disorders, light green: shared genes, dark green: obesity-related diseases, pink: obesity-related diseases exclusive genes",
     "nodeLabel": "Diseases and genes"
   },
   "features": {
